@@ -1,1 +1,1 @@
-This project is an avatar creation tool using dicebear in REACT projects. Make sure to credit the artist that you use in your projects. Information can be found here (https://www.dicebear.com/why-dicebear/)
+This project is an avatar creation tool using DiceBear in REACT projects. Make sure to credit the artist that you use in your projects. Information can be found here (https://www.dicebear.com/why-dicebear/)
