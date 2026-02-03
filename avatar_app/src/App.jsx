@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <h1>My Avatar</h1>
-      <GenerateAvatar seed="Aiden" />
+      <GenerateAvatar seed="Jessica" />
     </>
   )
 }
